@@ -1,4 +1,4 @@
-# Calculate shipping date based on nonworking days
+# Calculate shipping date in Y-m-d format
 Imagine there is a webshop which sells some products. We need the code that calculates the
 expected shipping date when a user submits an order. The shop owner has decided NOT to ship
 on certain days of the week ($holidays variable in config.php). There is a cut off time for placing
