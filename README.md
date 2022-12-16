@@ -17,7 +17,7 @@ Its need PHP environment.
 
 To change the number of holidays inside /functions.php 
 ```PHP
- $allHolidays = array('10-08-2022','11-08-2022', '12-08-2022','13-08-2022');
+ $allHolidays = array('15-12-2022','16-12-2022', '17-12-2022','18-12-2022');
  ```
 To change the Cut off time
 ```PHP
