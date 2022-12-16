@@ -16,7 +16,7 @@
                     <div class="d-flex justify-content-center mt-5">
                        
                         <code> Holidays on:
-                                <pre><?php  $holidays = array('10-08-2022','11-08-2022', '12-08-2022','13-08-2022');
+                                <pre><?php  $holidays = array('15-12-2022','16-12-2022', '17-12-2022','18-12-2022');
                                 print_r($holidays);
                                 ?></pre>
                         You can changes holidays inside /function.php
